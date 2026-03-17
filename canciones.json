@@ -1,0 +1,297 @@
+{
+  "challenge": {
+    "id": "just-dance-30-days-definitive",
+    "title": "Reto Just Dance 30 días",
+    "subtitle": "Variedad total, progresión coherente y pocas repeticiones",
+    "durationDays": 30,
+    "version": 1
+  },
+  "songLibrary": [
+    { "id": "flowers", "title": "Flowers", "artist": "Miley Cyrus", "intensity": "suave", "duration": "3:20", "durationSeconds": 200, "soloFriendly": true },
+    { "id": "happy", "title": "Happy", "artist": "Pharrell Williams", "intensity": "suave", "duration": "3:53", "durationSeconds": 233, "soloFriendly": true },
+    { "id": "call-me-maybe", "title": "Call Me Maybe", "artist": "Carly Rae Jepsen", "intensity": "suave", "duration": "3:13", "durationSeconds": 193, "soloFriendly": true },
+    { "id": "levitating", "title": "Levitating", "artist": "Dua Lipa", "intensity": "media", "duration": "3:23", "durationSeconds": 203, "soloFriendly": true },
+    { "id": "espresso", "title": "Espresso", "artist": "Sabrina Carpenter", "intensity": "media", "duration": "2:55", "durationSeconds": 175, "soloFriendly": true },
+    { "id": "cant-stop-the-feeling", "title": "Can't Stop the Feeling!", "artist": "Justin Timberlake", "intensity": "media", "duration": "3:56", "durationSeconds": 236, "soloFriendly": true },
+    { "id": "dance-monkey", "title": "Dance Monkey", "artist": "Tones and I", "intensity": "media", "duration": "3:29", "durationSeconds": 209, "soloFriendly": true },
+    { "id": "senorita", "title": "Señorita", "artist": "Shawn Mendes & Camila Cabello", "intensity": "suave", "duration": "3:11", "durationSeconds": 191, "soloFriendly": true },
+    { "id": "rather-be", "title": "Rather Be", "artist": "Clean Bandit", "intensity": "media", "duration": "3:47", "durationSeconds": 227, "soloFriendly": true },
+    { "id": "cheap-thrills", "title": "Cheap Thrills", "artist": "Sia", "intensity": "media", "duration": "3:31", "durationSeconds": 211, "soloFriendly": true },
+    { "id": "calm-down", "title": "Calm Down", "artist": "Rema", "intensity": "suave", "duration": "3:39", "durationSeconds": 219, "soloFriendly": true },
+    { "id": "new-rules", "title": "New Rules", "artist": "Dua Lipa", "intensity": "media", "duration": "3:29", "durationSeconds": 209, "soloFriendly": true },
+    { "id": "sugar", "title": "Sugar", "artist": "Maroon 5", "intensity": "media", "duration": "3:56", "durationSeconds": 236, "soloFriendly": true },
+    { "id": "love-me-land", "title": "Love Me Land", "artist": "Zara Larsson", "intensity": "media", "duration": "2:40", "durationSeconds": 160, "soloFriendly": true },
+    { "id": "ghostbusters", "title": "Ghostbusters", "artist": "Ray Parker Jr.", "intensity": "suave", "duration": "4:00", "durationSeconds": 240, "soloFriendly": true },
+    { "id": "waka-waka", "title": "Waka Waka", "artist": "Shakira", "intensity": "alta", "duration": "3:22", "durationSeconds": 202, "soloFriendly": true },
+    { "id": "tusa", "title": "Tusa", "artist": "Karol G & Nicki Minaj", "intensity": "media", "duration": "3:20", "durationSeconds": 200, "soloFriendly": true },
+    { "id": "blinding-lights", "title": "Blinding Lights", "artist": "The Weeknd", "intensity": "alta", "duration": "3:20", "durationSeconds": 200, "soloFriendly": true },
+    { "id": "bad-guy", "title": "Bad Guy", "artist": "Billie Eilish", "intensity": "media", "duration": "3:14", "durationSeconds": 194, "soloFriendly": true },
+    { "id": "as-it-was", "title": "As It Was", "artist": "Harry Styles", "intensity": "media", "duration": "2:47", "durationSeconds": 167, "soloFriendly": true },
+    { "id": "timber", "title": "Timber", "artist": "Pitbull & Kesha", "intensity": "alta", "duration": "3:24", "durationSeconds": 204, "soloFriendly": true },
+    { "id": "i-like-it", "title": "I Like It", "artist": "Cardi B, Bad Bunny & J Balvin", "intensity": "alta", "duration": "4:13", "durationSeconds": 253, "soloFriendly": true },
+    { "id": "treasure", "title": "Treasure", "artist": "Bruno Mars", "intensity": "media", "duration": "2:58", "durationSeconds": 178, "soloFriendly": true },
+    { "id": "cant-tame-her", "title": "Can't Tame Her", "artist": "Zara Larsson", "intensity": "alta", "duration": "3:16", "durationSeconds": 196, "soloFriendly": true },
+    { "id": "vampire", "title": "vampire", "artist": "Olivia Rodrigo", "intensity": "media", "duration": "3:39", "durationSeconds": 219, "soloFriendly": true },
+    { "id": "despacito", "title": "Despacito", "artist": "Luis Fonsi & Daddy Yankee", "intensity": "media", "duration": "3:48", "durationSeconds": 228, "soloFriendly": true },
+    { "id": "tainted-love", "title": "Tainted Love", "artist": "Soft Cell", "intensity": "media", "duration": "2:40", "durationSeconds": 160, "soloFriendly": true },
+    { "id": "bang-bang", "title": "Bang Bang", "artist": "Jessie J, Ariana Grande & Nicki Minaj", "intensity": "alta", "duration": "3:19", "durationSeconds": 199, "soloFriendly": true },
+    { "id": "whitney", "title": "Whitney", "artist": "Rêve", "intensity": "media", "duration": "2:53", "durationSeconds": 173, "soloFriendly": true },
+    { "id": "born-this-way", "title": "Born This Way", "artist": "Lady Gaga", "intensity": "alta", "duration": "4:20", "durationSeconds": 260, "soloFriendly": true },
+    { "id": "uptown-funk", "title": "Uptown Funk", "artist": "Mark Ronson ft. Bruno Mars", "intensity": "alta", "duration": "4:30", "durationSeconds": 270, "soloFriendly": true },
+    { "id": "firework", "title": "Firework", "artist": "Katy Perry", "intensity": "alta", "duration": "3:48", "durationSeconds": 228, "soloFriendly": true },
+    { "id": "bad-romance", "title": "Bad Romance", "artist": "Lady Gaga", "intensity": "alta", "duration": "4:21", "durationSeconds": 261, "soloFriendly": true },
+    { "id": "wasabi", "title": "Wasabi", "artist": "Little Mix", "intensity": "alta", "duration": "2:34", "durationSeconds": 154, "soloFriendly": true },
+    { "id": "starships", "title": "Starships", "artist": "Nicki Minaj", "intensity": "alta", "duration": "3:31", "durationSeconds": 211, "soloFriendly": true },
+    { "id": "wake-me-up", "title": "Wake Me Up", "artist": "Avicii", "intensity": "alta", "duration": "4:07", "durationSeconds": 247, "soloFriendly": true },
+    { "id": "stronger", "title": "Stronger (What Doesn't Kill You)", "artist": "Kelly Clarkson", "intensity": "alta", "duration": "3:42", "durationSeconds": 222, "soloFriendly": true },
+    { "id": "tqg", "title": "TQG", "artist": "Karol G & Shakira", "intensity": "alta", "duration": "3:17", "durationSeconds": 197, "soloFriendly": true },
+    { "id": "sucker", "title": "Sucker", "artist": "Jonas Brothers", "intensity": "media", "duration": "3:01", "durationSeconds": 181, "soloFriendly": true },
+    { "id": "hips-dont-lie", "title": "Hips Don't Lie", "artist": "Shakira", "intensity": "alta", "duration": "3:38", "durationSeconds": 218, "soloFriendly": true },
+    { "id": "toxic", "title": "Toxic", "artist": "Britney Spears", "intensity": "alta", "duration": "3:20", "durationSeconds": 200, "soloFriendly": true },
+    { "id": "survivor", "title": "Survivor", "artist": "Destiny's Child", "intensity": "alta", "duration": "4:15", "durationSeconds": 255, "soloFriendly": true },
+    { "id": "level-up", "title": "Level Up", "artist": "Ciara", "intensity": "alta", "duration": "2:56", "durationSeconds": 176, "soloFriendly": true },
+
+    { "id": "baby-one-more-time", "title": "Baby One More Time", "artist": "Britney Spears", "intensity": "media", "duration": "3:29", "durationSeconds": 209, "soloFriendly": true },
+    { "id": "this-is-halloween", "title": "This Is Halloween", "artist": "Danny Elfman / The Citizens of Halloween", "intensity": "media", "duration": "3:05", "durationSeconds": 185, "soloFriendly": true },
+    { "id": "you-make-me-feel", "title": "You Make Me Feel...", "artist": "Cobra Starship ft. Sabi", "intensity": "alta", "duration": "3:35", "durationSeconds": 215, "soloFriendly": true },
+    { "id": "boys-summertime-love", "title": "Boys (Summertime Love)", "artist": "Sabrina", "intensity": "media", "duration": "3:36", "durationSeconds": 216, "soloFriendly": true },
+    { "id": "jambo-mambo", "title": "Jambo Mambo", "artist": "Ole Orquesta", "intensity": "alta", "duration": "3:08", "durationSeconds": 188, "soloFriendly": false },
+    { "id": "how-far-ill-go", "title": "How Far I'll Go", "artist": "Auli'i Cravalho", "intensity": "suave", "duration": "2:43", "durationSeconds": 163, "soloFriendly": true },
+    { "id": "crazy-little-thing-called-love", "title": "Crazy Little Thing Called Love", "artist": "Queen", "intensity": "media", "duration": "2:44", "durationSeconds": 164, "soloFriendly": true },
+    { "id": "psycho", "title": "Psycho", "artist": "Red Velvet", "intensity": "media", "duration": "3:31", "durationSeconds": 211, "soloFriendly": true },
+    { "id": "istanbul", "title": "Istanbul", "artist": "They Might Be Giants", "intensity": "alta", "duration": "2:36", "durationSeconds": 156, "soloFriendly": true },
+    { "id": "hot-n-cold", "title": "Hot N Cold", "artist": "Katy Perry", "intensity": "alta", "duration": "3:40", "durationSeconds": 220, "soloFriendly": true },
+    { "id": "fancy", "title": "Fancy", "artist": "Iggy Azalea ft. Charli XCX", "intensity": "media", "duration": "3:23", "durationSeconds": 203, "soloFriendly": true },
+    { "id": "dark-horse", "title": "Dark Horse", "artist": "Katy Perry ft. Juicy J", "intensity": "media", "duration": "3:35", "durationSeconds": 215, "soloFriendly": false },
+    { "id": "all-about-that-bass", "title": "All About That Bass", "artist": "Meghan Trainor", "intensity": "media", "duration": "3:07", "durationSeconds": 187, "soloFriendly": true },
+    { "id": "cercavo-amore", "title": "Cercavo Amore", "artist": "Emma", "intensity": "alta", "duration": "3:20", "durationSeconds": 200, "soloFriendly": true },
+    { "id": "so-what", "title": "So What", "artist": "P!nk", "intensity": "alta", "duration": "3:35", "durationSeconds": 215, "soloFriendly": true },
+    { "id": "thank-u-next", "title": "thank u, next", "artist": "Ariana Grande", "intensity": "suave", "duration": "3:27", "durationSeconds": 207, "soloFriendly": true },
+    { "id": "i-kissed-a-girl", "title": "I Kissed a Girl", "artist": "Katy Perry", "intensity": "alta", "duration": "3:00", "durationSeconds": 180, "soloFriendly": true },
+    { "id": "super-trouper", "title": "Super Trouper", "artist": "ABBA", "intensity": "suave", "duration": "3:46", "durationSeconds": 226, "soloFriendly": true },
+    { "id": "gimme-gimme-gimme", "title": "Gimme! Gimme! Gimme! (A Man After Midnight)", "artist": "ABBA", "intensity": "media", "duration": "4:10", "durationSeconds": 250, "soloFriendly": true },
+    { "id": "im-an-albatraoz", "title": "I'm an Albatraoz", "artist": "AronChupa ft. Little Sis Nora", "intensity": "alta", "duration": "2:46", "durationSeconds": 166, "soloFriendly": true },
+    { "id": "titi-me-pregunto", "title": "Tití Me Preguntó", "artist": "Bad Bunny", "intensity": "alta", "duration": "4:03", "durationSeconds": 243, "soloFriendly": true },
+    { "id": "asereje", "title": "Aserejé", "artist": "Las Ketchup", "intensity": "media", "duration": "3:31", "durationSeconds": 211, "soloFriendly": true },
+    { "id": "umbrella", "title": "Umbrella", "artist": "Rihanna ft. Jay-Z", "intensity": "media", "duration": "4:15", "durationSeconds": 255, "soloFriendly": true },
+    { "id": "diamonds", "title": "Diamonds", "artist": "Rihanna", "intensity": "suave", "duration": "3:45", "durationSeconds": 225, "soloFriendly": true },
+    { "id": "yo-perreo-sola", "title": "Yo Perreo Sola", "artist": "Bad Bunny", "intensity": "alta", "duration": "2:53", "durationSeconds": 173, "soloFriendly": true },
+    { "id": "mr-saxobeat", "title": "Mr. Saxobeat", "artist": "Alexandra Stan", "intensity": "alta", "duration": "3:15", "durationSeconds": 195, "soloFriendly": true }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "theme": "Empezar suave",
+      "type": "normal",
+      "songIds": ["flowers", "happy", "call-me-maybe", "levitating", "espresso"]
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "theme": "Tomar ritmo",
+      "type": "normal",
+      "songIds": ["cant-stop-the-feeling", "dance-monkey", "senorita", "rather-be", "cheap-thrills"]
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "theme": "Suave pero activo",
+      "type": "normal",
+      "songIds": ["calm-down", "new-rules", "sugar", "love-me-land", "ghostbusters"]
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "theme": "Subimos un poco",
+      "type": "normal",
+      "songIds": ["waka-waka", "tusa", "bad-guy", "as-it-was", "treasure"]
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "theme": "Variedad pop",
+      "type": "normal",
+      "songIds": ["baby-one-more-time", "boys-summertime-love", "all-about-that-bass", "fancy", "mr-saxobeat"]
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "theme": "Cardio moderado",
+      "type": "normal",
+      "songIds": ["timber", "i-like-it", "cant-tame-her", "vampire", "blinding-lights"]
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "theme": "Descanso activo",
+      "type": "light",
+      "songIds": ["how-far-ill-go", "thank-u-next", "diamonds"]
+    },
+
+    {
+      "day": 8,
+      "week": 2,
+      "theme": "Más energía",
+      "type": "normal",
+      "songIds": ["despacito", "tainted-love", "bang-bang", "whitney", "born-this-way"]
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "theme": "Fiesta pop",
+      "type": "normal",
+      "songIds": ["uptown-funk", "firework", "bad-romance", "wasabi", "starships"]
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "theme": "Power hits",
+      "type": "normal",
+      "songIds": ["wake-me-up", "stronger", "tqg", "sucker", "hips-dont-lie"]
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "theme": "Más intensidad",
+      "type": "normal",
+      "songIds": ["toxic", "survivor", "level-up", "you-make-me-feel", "hot-n-cold"]
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "theme": "Especial favoritas",
+      "type": "normal",
+      "songIds": ["i-kissed-a-girl", "so-what", "cercavo-amore", "yo-perreo-sola", "asereje"]
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "theme": "Mezcla divertida",
+      "type": "normal",
+      "songIds": ["crazy-little-thing-called-love", "gimme-gimme-gimme", "umbrella", "dark-horse", "psycho"]
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "theme": "Bajar un poco",
+      "type": "light",
+      "songIds": ["super-trouper", "flowers", "senorita"]
+    },
+
+    {
+      "day": 15,
+      "week": 3,
+      "theme": "Quema calorías",
+      "type": "normal",
+      "songIds": ["blinding-lights", "cheap-thrills", "starships", "toxic", "level-up"]
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "theme": "Cardio con flow",
+      "type": "normal",
+      "songIds": ["uptown-funk", "mr-saxobeat", "cant-tame-her", "tqg", "wake-me-up"]
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "theme": "Latino y pop",
+      "type": "normal",
+      "songIds": ["waka-waka", "despacito", "i-like-it", "tusa", "yo-perreo-sola"]
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "theme": "Hits potentes",
+      "type": "normal",
+      "songIds": ["firework", "bad-romance", "born-this-way", "stronger", "bang-bang"]
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "theme": "Retro + diva",
+      "type": "normal",
+      "songIds": ["baby-one-more-time", "hot-n-cold", "i-kissed-a-girl", "umbrella", "fancy"]
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "theme": "Rarezas divertidas",
+      "type": "normal",
+      "songIds": ["this-is-halloween", "istanbul", "im-an-albatraoz", "titi-me-pregunto", "jambo-mambo"]
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "theme": "Recuperación",
+      "type": "light",
+      "songIds": ["how-far-ill-go", "happy", "calm-down"]
+    },
+
+    {
+      "day": 22,
+      "week": 4,
+      "theme": "Reto final empieza",
+      "type": "normal",
+      "songIds": ["hips-dont-lie", "starships", "cheap-thrills", "boys-summertime-love", "wasabi"]
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "theme": "Fiesta fuerte",
+      "type": "normal",
+      "songIds": ["timber", "survivor", "you-make-me-feel", "asereje", "bad-guy"]
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "theme": "Variedad total",
+      "type": "normal",
+      "songIds": ["gimme-gimme-gimme", "psycho", "dark-horse", "whitney", "vampire"]
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "theme": "Hits coreables",
+      "type": "normal",
+      "songIds": ["cant-stop-the-feeling", "new-rules", "sugar", "rather-be", "treasure"]
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "theme": "Pop girls",
+      "type": "normal",
+      "songIds": ["all-about-that-bass", "love-me-land", "dance-monkey", "bad-romance", "firework"]
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "theme": "Último empujón",
+      "type": "normal",
+      "songIds": ["so-what", "cercavo-amore", "toxic", "level-up", "mr-saxobeat"]
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "theme": "Descanso activo",
+      "type": "light",
+      "songIds": ["super-trouper", "thank-u-next", "diamonds"]
+    },
+
+    {
+      "day": 29,
+      "week": 5,
+      "theme": "Gran final 1",
+      "type": "final",
+      "songIds": ["uptown-funk", "hips-dont-lie", "blinding-lights", "tqg", "born-this-way"]
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "theme": "Gran final 2",
+      "type": "final",
+      "songIds": ["wake-me-up", "starships", "cant-tame-her", "yo-perreo-sola", "bang-bang"]
+    }
+  ]
+}

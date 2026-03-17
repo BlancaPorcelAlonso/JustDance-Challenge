@@ -1,0 +1,65 @@
+body{
+      font-family: Arial;
+      padding:40px;
+    }
+
+    .card{
+      border:1px solid #ccc;
+      border-radius:10px;
+      padding:20px;
+      width: 80%;
+      text-align: center;
+    }
+
+    #card-container{
+      display:flex;
+      gap:20px;
+      flex-wrap:wrap;
+      justify-content: center;
+      vertical-align: middle;
+    }
+
+    ul, ol {
+      list-style: none;
+    }
+
+    .songs-container {
+      display: flex;
+      gap: 15px;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-top: 20px;
+      flex-direction: column;
+    }
+
+    .song-card {
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 15px;
+      background-color: #f9f9f9;
+      min-width: 180px;
+      text-align: center;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      transition: transform 0.2s, box-shadow 0.2s;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .song-title {
+      font-weight: bold;
+      font-size: 14px;
+      color: #333;
+    }
+
+    .song-intensity {
+      font-size: 13px;
+      padding-top: 5px;
+    }
+
+    .song-duration {
+      font-size: 13px;
+      color: #888;
+      font-style: italic;
+    }
+
