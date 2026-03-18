@@ -64,3 +64,22 @@ fetch("canciones.json")
     // Muestra el error en la consola del navegador
     console.error("Error al cargar el día:", error);
   });
+
+
+const boton = document.getElementById("finished-songs-btn");
+
+boton.addEventListener("click", () => {
+
+  // obtener lista de días completados
+  let completados = JSON.parse(localStorage.getItem("diasCompletados")) || [];
+
+  // añadir este día si no está
+  if (!completados.includes(id)) {
+    completados.push(id);
+  }
+
+  // guardar en el navegador
+  localStorage.setItem("diasCompletados", JSON.stringify(completados));
+
+  alert("¡Día completado!");
+});

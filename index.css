@@ -60,3 +60,21 @@ h2{
     color: #ffffff; /* Color de relleno blanco */
     -webkit-text-stroke: 1px #f6c1e4; 
      letter-spacing: -1px;} 
+
+     
+.card.completed{
+  background:#d4ffd9;
+  border:3px solid #2ecc71;
+  position:relative;
+}
+
+.card.completed::after{
+  content:"✔";
+  position:absolute;
+  top:5px;
+  right:10px;
+  font-size:24px;
+  color:#2ecc71;
+}
+
+
