@@ -1,6 +1,14 @@
+@font-face {
+    font-family: 'MiFuentePersonalizada';
+    src: url('../fonts/Anton-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'MiFuentePersonalizada', Arial, sans-serif;
   padding: 20px;
+  background-image: url(assets/fondo.png);
 }
 
 #contenedor-cards {
@@ -15,6 +23,7 @@ body {
   border-radius: 10px;
   padding: 15px;
   box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+  background-color: rgb(251, 233, 246);
 }
 
 #lista {
@@ -29,3 +38,25 @@ a{
     color: black;
     text-decoration: none;
 }
+
+
+
+h1{
+    font-family: 'MiFuentePersonalizada', sans-serif !important;
+    font-size: 50px;
+    font-weight: bold;
+    color: #ffffff; /* Color de relleno blanco */
+    -webkit-text-stroke: 1px #f6c1e4; 
+    
+    /* Ajuste de espaciado entre letras */
+    letter-spacing: -1px;
+    margin: 0;
+}
+
+h2{
+    font-family: 'MiFuentePersonalizada', sans-serif !important;
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff; /* Color de relleno blanco */
+    -webkit-text-stroke: 1px #f6c1e4; 
+     letter-spacing: -1px;} 
