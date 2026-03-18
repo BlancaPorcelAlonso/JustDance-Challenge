@@ -125,3 +125,25 @@ ol {
     font-style: italic;
     font-family: 'MiFuentePersonalizada', sans-serif !important;
 }
+
+#finished-songs-btn {
+  background:#D6007D;        /* rosa fuerte */
+  color:white;
+  font-weight:700;
+  font-size:22px;
+  margin: 50px;
+  text-transform:uppercase;
+  letter-spacing:1px;
+
+  padding:18px 120px;
+
+  border:6px solid white;   /* borde blanco */
+  border-radius:30px;       /* forma redondeada */
+
+  cursor:pointer;
+
+  box-shadow:0 4px 10px rgba(0,0,0,0.15);
+
+  transition:all 0.2s ease;
+}
+
