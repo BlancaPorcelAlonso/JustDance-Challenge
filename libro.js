@@ -22,7 +22,7 @@ fetch("canciones.json")
     }
 
     // Muestra el número del día en el elemento con id "day"
-    document.getElementById("day").innerText = "Día " + dia.day;
+    document.getElementById("day").innerText = "DIA " + dia.day;
     // Muestra el tema del día en el elemento con id "theme"
     document.getElementById("theme").innerText = "Tema: " + dia.theme;
     // Muestra el tipo de música en el elemento con id "type"
@@ -45,15 +45,17 @@ fetch("canciones.json")
         // Crea la estructura HTML de la tarjeta con nombre de canción, intensidad y segundos
         songCard.innerHTML = `
           <div class="song-title">${cancion.title} - ${cancion.artist}</div>
-          <div class="song-intensity">Intensidad: ${cancion.intensity}</div>
-          <div class="song-duration">${cancion.durationSeconds}s</div>
+          <div class="song-details">
+            <span class="song-intensity">Intensidad: ${cancion.intensity}</span>
+            <span class="song-duration">Duration: ${cancion.durationSeconds}s</span>
+          </div>
         `;
       } else {
         // Si la canción no está en la librería, solo muestra el id
         songCard.innerText = songId;
       }
 
-      // Añade la tarjetita a el contenedor de canciones en el HTML
+      // Añade la tarjeta a el contenedor de canciones en el HTML
       listaCanciones.appendChild(songCard);
     });
   })
