@@ -9,12 +9,15 @@ body {
   font-family: 'MiFuentePersonalizada', Arial, sans-serif;
   padding: 20px;
   background-image: url(assets/fondo.png);
+  background-size: cover;
+  text-align: center;
 }
 
 #contenedor-cards {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
+
 }
 
 .card {
@@ -28,9 +31,13 @@ body {
 
 #lista {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 15px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 25px;
   margin-top: 30px;
+  justify-content: center;
+  max-width: 100%;
+  padding: 0 20px;
+  box-sizing: border-box;
 }
 
 a{
@@ -61,7 +68,7 @@ h2{
     -webkit-text-stroke: 1px #f6c1e4; 
      letter-spacing: -1px;} 
 
-     
+
 .card.completed{
   background:#d4ffd9;
   border:3px solid #2ecc71;
@@ -78,3 +85,7 @@ h2{
 }
 
 
+a{
+    color: black;
+    font-style: normal;
+}

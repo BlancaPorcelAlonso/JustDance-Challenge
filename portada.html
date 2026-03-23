@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reto 30 días Just Dance</title>
+  <link rel="stylesheet" href="index copy.css">
+  <script>
+    function startChallenge() {
+      // Resetear los días completados (poner vacío)
+      localStorage.setItem("diasCompletados", JSON.stringify([]));
+      // Redirigir a index.html
+      window.location.href = "index.html";
+    }
+  </script>
+</head>
+<body>
+
+  <section class="hero">
+    <div class="hero-text">
+      <h1>RETO 30 DIAS</h1>
+      <h2>JUST DANCE</h2>
+
+      <div class="hero-bottom">
+         <img src="assets/cascos.png" alt="Cascos" class="headphones">
+        <button id="start-button" onclick="startChallenge()">empieza ahora!</button>
+      </div>
+    </div>
+
+    <div class="hero-image">
+      <img src="assets/foto-coach.png" alt="Bailarina Just Dance" id="just-dance-image">
+    </div>
+  </section>
+
+</body>
+</html>

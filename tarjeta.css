@@ -15,6 +15,7 @@ body {
     font-family: Arial;
      background-size: cover; 
     background-image: url(assets/fondo.png);
+    margin: 0;
 }
 
 .card {
@@ -50,8 +51,7 @@ ol {
     justify-content: center;
     margin-top: 20px;
     flex-direction: column;
-    width: 70%;
-    
+    width: 100%;
 }
 
 .song-card {
@@ -147,3 +147,51 @@ ol {
   transition:all 0.2s ease;
 }
 
+
+a{
+    color: black;
+    font-style: normal;
+}
+
+
+
+.nav{
+    background-color: #f9f9f9;
+  top: 0;
+  left: 0;
+  margin: 0;
+  width: 100%;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.nav-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 10px 22px;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: flex-end !important;
+  margin-right: 40px;
+}
+
+
+.menu {
+  display: flex;
+  gap: 40px;
+}
+
+.menu a {
+  text-decoration: none !important;
+  color: #fff !important;
+  font-weight: 600 !important;
+}
+
+.menu a:hover {
+  text-decoration: underline !important;
+  color: #ffe6f2 !important;
+}
+
+
+#home{
+    width: 50px;
+}
